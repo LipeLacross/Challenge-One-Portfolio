@@ -461,7 +461,7 @@ section.formcontato {
 
 /* Estilização para a imagem da seção de contato */
 .formcontato__img {
-    max-width: 100%; /* Faz a imagem nunca ultrapassar o tamanho do contêiner */
+    max-width: 80%; /* Faz a imagem nunca ultrapassar o tamanho do contêiner */
     height: auto; /* Mantém a proporção da imagem */
     display: block; /* Remove espaços extras em imagens inline */
     margin: 0 auto; /* Centraliza a imagem no contêiner */
